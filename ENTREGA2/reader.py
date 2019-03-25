@@ -81,7 +81,7 @@ def with_out_utf(cadena): #QUITA CARACTERES NO ADMITIDOS POR EL TURTLE VALIDATOR
 
 with open('books.json') as file: 
     libros = json.load(file)
-    file = open("filename.ttl", "w")
+    file = open("books.ttl", "w")
     file.write("@prefix rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>. "+ os.linesep)
     file.write("@prefix ex:<http://example.com/>. "+ os.linesep+"\n")
     for libro in libros:
