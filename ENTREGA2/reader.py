@@ -169,6 +169,7 @@ with open('books.json') as file:
             file.write("\trdf:Type  ex:List.\n"+ os.linesep) 
     
     file.close()
+    print('books.ttl generado correctamente')
 
 
 
