@@ -17,6 +17,8 @@ _El proyecto consiste en construir un grafo RFD con la bibliografía recolectada
 
 ## CONSULTAS 
 _Diríjase a query (En donde se realizan las consultas)_
+
+
 **Cuente la cantidad de libros:**
 
 **Cuente cuantos autores diferentes hay en la base de datos:**
