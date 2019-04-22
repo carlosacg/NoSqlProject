@@ -18,36 +18,7 @@ _El proyecto consiste en construir un grafo RFD con la bibliografía recolectada
 ## Diríjase a query
 **Cuente la cantidad de libros:**
 
-**Cuente cuantos autores diferentes hay en la base de datos: **
+**Cuente cuantos autores diferentes hay en la base de datos:**
 
 
-
-
-## CREAR 🚀
-_Se insertara un contacto a la base de datos_
-
-
-📋 Inicialmente contamos con los siguientes datos: 
-
-**https://ibb.co/jRfwbm2**
-
-```
-En la captura se observa que hay 2 contactos registrados en la base de datos.
-```
-
-Posteriormente queremos insertar un nuevo contacto, por lo cual cambiamos la solicitud a tipo **POST** y escribimos el contacto en formato JSON. 
-
-**https://ibb.co/vDNVg0c**
-
-```
-En la captura se observa una solicitud tipo POST que contendra en el body un JSON con el modelo que tiene un contacto.
-```
-
-Comprobamos que el usuario se haya creado exitosamente haciendo nuevamente una solicitud **GET**: 
-
-**https://ibb.co/z4WYztx**
-
-```
-En la captura se observa que hay 3 contactos los 2 primeros y el que acabamos de insertar por medio de la solicitud POST
-```
 
