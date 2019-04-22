@@ -36,4 +36,5 @@ _Diríjase a query (En donde se realizan las consultas)_
 **Cuente cuantos autores diferentes hay en la base de datos:**
 
 
+![alt text](https://github.com/carlosacg/NoSqlProject/blob/master/Images/4.png)
 
