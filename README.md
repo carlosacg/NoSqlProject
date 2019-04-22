@@ -15,7 +15,8 @@ _El proyecto consiste en construir un grafo RFD con la bibliografía recolectada
 8. Cargue el archivo de extension .ttl que contiene su base de datos  RDF en upload files: 
 9. Compruebe que los datos se hayan cargado correctamente con unas consultas básicas (En este caso nuestra base de datos son libros de scopus).
 
-## Diríjase a query
+## CONSULTAS 
+_Diríjase a query (En donde se realizan las consultas)_
 **Cuente la cantidad de libros:**
 
 **Cuente cuantos autores diferentes hay en la base de datos:**
