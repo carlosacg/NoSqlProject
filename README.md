@@ -12,9 +12,12 @@ _El proyecto consiste en construir un grafo RFD con la bibliografía recolectada
 5. Ejecute el comando: **./fuseki-server --update --mem /dataset** si su sistema operativo pertenece a una distribución de Linux, si su sistema operativo es Windows ejecute el comando **fuseki-server  --update  --mem /dataset**
 6. Abra en el navegador de preferencia la siguiente URL: http://localhost:3030/
 7. Diríjase a manage datasets
+
 ![alt text](https://github.com/carlosacg/NoSqlProject/blob/master/Images/1.png)
 
 8. Cargue el archivo de extension .ttl que contiene su base de datos  RDF en upload files: 
+![alt text](https://github.com/carlosacg/NoSqlProject/blob/master/Images/2.png)
+
 9. Compruebe que los datos se hayan cargado correctamente con unas consultas básicas (En este caso nuestra base de datos son libros de scopus).
 
 ## CONSULTAS 
@@ -22,6 +25,7 @@ _Diríjase a query (En donde se realizan las consultas)_
 
 
 **Cuente la cantidad de libros:**
+![alt text](https://github.com/carlosacg/NoSqlProject/blob/master/Images/3)
 
 **Cuente cuantos autores diferentes hay en la base de datos:**
 
