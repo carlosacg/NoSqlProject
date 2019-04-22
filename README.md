@@ -2,6 +2,11 @@
 
 _El proyecto consiste en construir un grafo RFD con la bibliografía recolectada los libros de Scopus. El grafo debe almacenar la información básica del artículo y las referencias a los artículos que se citan en el._
 
+## VIDEO EN YOUTUBE.
+```
+https://www.youtube.com/
+```
+
 ## EXPLICACIÓN.📋 
 
 1. Descargar Apache-Jena-Fuseki del siguiente link: 
