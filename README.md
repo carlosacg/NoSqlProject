@@ -2,9 +2,19 @@
 
 _El proyecto consiste en construir un grafo RFD con la bibliografía recolectada los libros de Scopus. El grafo debe almacenar la información básica del artículo y las referencias a los artículos que se citan en el._
 
+## INFORME
+```
+https://drive.google.com/open?id=1pFQ1JqKB4TO-1f-aUdGjoBYGAz3fuhYb
+```
 ## VIDEO EN YOUTUBE.
 ```
 https://youtu.be/W-g6oyjBkWk
+
+```
+
+## PRESENTACION.
+```
+https://drive.google.com/file/d/14fqhgbTSAIknmHQH-et-4ByKmbgXV25V/view?usp=sharing
 
 ```
 
