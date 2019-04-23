@@ -4,7 +4,8 @@ _El proyecto consiste en construir un grafo RFD con la bibliografía recolectada
 
 ## VIDEO EN YOUTUBE.
 ```
-https://www.youtube.com/
+https://youtu.be/W-g6oyjBkWk
+
 ```
 
 ## EXPLICACIÓN.📋 
